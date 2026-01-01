@@ -132,6 +132,23 @@ BridgeLabz-Training/
 🔗 **Work Link:**  
 👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/core-java-practice/core-java-practise/Scenario-Based
 
+---
+
+### 🔹 30 Dec 2025 (Tuesday)
+✅ Solved **Solving scenario based problems**  
+- Practiced extra method based problems  
+🔗 **Work Link:**  
+👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/core-java-practice/core-java-practise/Scenario-Based
+
+---
+
+### 🔹 31 Dec 2025 (Wednesday)
+✅ Solved **Solving scenario based problems like employee wage computationa and line comparison**  
+- Practiced and solved constructor level 1 and 2 problems  
+🔗 **Work Link:**  
+👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/core-java-practice/core-java-practise/Scenario-Based
+
+
 
 ## 🌟 Key Learning Outcomes
 - Strong foundation in **Core Java**
