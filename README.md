@@ -128,25 +128,25 @@ BridgeLabz-Training/
 
 ### 🔹 29 Dec 2025 (Monday)
 ✅ Solved **Solving scenario based problems**  
-- Practiced built-in function problems  
+- Practiced built-in function problems.  
 🔗 **Work Link:**  
 👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/core-java-practice/core-java-practise/Scenario-Based
 
 ---
 
 ### 🔹 30 Dec 2025 (Tuesday)
-✅ Solved **Solving scenario based problems**  
-- Practiced extra method based problems  
+✅ Solved **Solving scenario based problems like line comparison, Employee wage computation**   
 🔗 **Work Link:**  
-👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/core-java-practice/core-java-practise/Scenario-Based
+👉https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/oops-practice/core-java-practice/core-java-practise/Scenario-Based
 
 ---
 
 ### 🔹 31 Dec 2025 (Wednesday)
 ✅ Solved **Solving scenario based problems like employee wage computationa and line comparison**  
-- Practiced and solved constructor level 1 and 2 problems  
+-  Practiced class and object related problems and practiced and solved constructor level 1 and 2 problems.  
 🔗 **Work Link:**  
 👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/core-java-practice/core-java-practise/Scenario-Based
+👉https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object
 
 
 
