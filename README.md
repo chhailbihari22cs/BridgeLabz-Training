@@ -146,8 +146,6 @@ BridgeLabz-Training/
 -  Practiced class and object related problems and practiced and solved constructor level 1 and 2 problems.  
 🔗 **Work Link:**  
 👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/core-java-practice/core-java-practise/Scenario-Based
-👉https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/class-and-object
-
 
 ---
 
