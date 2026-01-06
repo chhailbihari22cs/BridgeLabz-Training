@@ -1,20 +1,25 @@
 // searching elements in a rotated sorted array
 public class RotatedSortedArray {
-    public static int search (int[] nums, int target) {
+    public static int search(int[] nums, int target) {
         int left = 0;
         int right = nums.length - 1;
+
         while (left <= right) {
             int mid = left + (right - left) / 2;
+
             if (nums[mid] == target) {
                 return mid;
             }
+
             if (nums[left] <= nums[mid]) {
                 if (nums[left] <= target && target < nums[mid]) {
                     right = mid - 1;
                 } else {
                     left = mid + 1;
                 }
-            } else {
+            }
+
+            else {
                 if (nums[mid] < target && target <= nums[right]) {
                     left = mid + 1;
                 } else {
@@ -22,13 +27,14 @@ public class RotatedSortedArray {
                 }
             }
         }
-    }return-1;
 
-}
+        return -1;
+    }
 
-    public static void main( String[] args) {
-        int[] nums = {4,5,6,7,0,1,2};
+    public static void main(String[] args) {
+        int[] nums = { 4, 5, 6, 7, 0, 1, 2 };
         int target = 0;
         int result = search(nums, target);
-        System.out.println("Index of target " + target + ": " + result); 
+        System.out.println("Index of target " + target + ": " + result);
     }
+}
