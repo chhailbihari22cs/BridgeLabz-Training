@@ -167,6 +167,43 @@ BridgeLabz-Training/
 👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/inheritance
 
 
+## Week 4 — **OOPS concepts and Starting with Data structures**                           
+📆 **16 Dec 2025 – 21 Dec 2025**
+
+---
+
+### 🔹 05 Jan 2025 (Monday)
+✅ **Solved OOPS-based problems**  
+-  Solved problem based on Encapsulation, Polymorphism, Interface and Abstract Class. 
+🔗 **Work Link:**  
+👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation
+
+---
+
+### 🔹 06 Jan 2025 (Tuesday)
+✅ Solved **Solved OOPS-based problems**  
+-  Solved scenario based and leetcode problem with oops concept.(i.e. Phone Contact Organizer, Online Quiz Platform – Result Processor etc.)  
+🔗 **Work Link:**  
+👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/core-java-practice/core-java-practise/leet-code-codebase
+
+---
+
+### 🔹 07 Jan 2025 (Wednesday)
+✅ **Solved OOPS-based problems**  
+-  Solved story based problems with OOPS concept (i.e. Online Banking System, Cab Booking / Ride Management System )
+🔗 **Work Link:**  
+👉 https://github.com/chhailbihari22cs/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based
+
+---
+
+### 🔹 08 Jan 2025 (Thuresay)
+✅ Solved **Solved DSA Based problem**  
+-   Solved linked based problem. like single linked list, Doubly linked list and circular linked list
+🔗 **Work Link:**  
+👉 
+
+
 ## 🌟 Key Learning Outcomes
 - Strong foundation in **Core Java**
 - Hands-on experience with **Git & GitHub**
