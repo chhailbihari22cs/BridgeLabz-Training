@@ -26,7 +26,7 @@ public class TrafficManager {
         }
     }
 
-    // 2. Queue se nikaal kar Roundabout (Circular List) mein daalna
+    // 2. Queue se nikaal (Circular List) mein daalna
     public void moveToRoundabout() {
         if (waitingQueue.isEmpty()) {
             System.out.println("Queue Underflow: No cars waiting!");
@@ -43,7 +43,7 @@ public class TrafficManager {
         } else {
             tail.next = newVehicle;
             tail = newVehicle;
-            tail.next = head; // Last ko wapas head se connect kiya
+            tail.next = head; // connected tail to head to maintain circle
         }
         System.out.println(carPlate + " entered the roundabout.");
     }
