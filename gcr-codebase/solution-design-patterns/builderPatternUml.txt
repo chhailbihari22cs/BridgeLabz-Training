@@ -1,0 +1,12 @@
+Book
++ title
++ authors
++ edition
++ genre
++ publisher
+
+Book.Builder
++ author()
++ edition()
++ genre()
++ build()

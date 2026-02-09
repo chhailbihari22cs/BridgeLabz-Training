@@ -1,0 +1,7 @@
+Subject (LibraryCatalog)
++ subscribe()
++ unsubscribe()
++ notifyObservers()
+
+Observer (User)
++ update(message)

@@ -1,0 +1,17 @@
++------------------+
+| LibraryCatalog   |  <<Singleton>>
++------------------+
+| -instance        |
+| -books           |
+| -observers       |
++------------------+
+| getInstance()    |
+| addBook()        |
+| notifyUsers()    |
++------------------+
+        ▲
+        |
+-----------------------------
+|            |             |
+Student     Faculty     Librarian
+(Observer)  (Observer)
