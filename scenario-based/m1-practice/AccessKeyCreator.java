@@ -6,7 +6,6 @@ public class AccessKeyCreator {
 
         Scanner reader = new Scanner(System.in);
         int cases = Integer.parseInt(reader.nextLine().trim());
-
         while (cases-- > 0) {
 
             String text = reader.nextLine();
